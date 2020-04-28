@@ -1,0 +1,6 @@
+Array elements number: 10
+Array elements : 11 12 13 14 15 16 17 18 19 110
+min is: 11
+Max is: 110
+Sum is: 245
+Agv is: 24.5
