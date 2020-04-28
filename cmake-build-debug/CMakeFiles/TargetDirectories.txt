@@ -1,0 +1,3 @@
+C:/Users/Lachezar/CLionProjects/streamsExsersize/cmake-build-debug/CMakeFiles/streamsExsersize.dir
+C:/Users/Lachezar/CLionProjects/streamsExsersize/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lachezar/CLionProjects/streamsExsersize/cmake-build-debug/CMakeFiles/rebuild_cache.dir
